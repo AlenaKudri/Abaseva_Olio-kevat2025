@@ -1,0 +1,7 @@
+C:/Users/abase/Documents/OAMK/3. jakso/Olio-ohjelmointi/VT1/build/CMakeFiles/VT1.dir
+C:/Users/abase/Documents/OAMK/3. jakso/Olio-ohjelmointi/VT1/build/CMakeFiles/edit_cache.dir
+C:/Users/abase/Documents/OAMK/3. jakso/Olio-ohjelmointi/VT1/build/CMakeFiles/rebuild_cache.dir
+C:/Users/abase/Documents/OAMK/3. jakso/Olio-ohjelmointi/VT1/build/CMakeFiles/list_install_components.dir
+C:/Users/abase/Documents/OAMK/3. jakso/Olio-ohjelmointi/VT1/build/CMakeFiles/install.dir
+C:/Users/abase/Documents/OAMK/3. jakso/Olio-ohjelmointi/VT1/build/CMakeFiles/install/local.dir
+C:/Users/abase/Documents/OAMK/3. jakso/Olio-ohjelmointi/VT1/build/CMakeFiles/install/strip.dir
