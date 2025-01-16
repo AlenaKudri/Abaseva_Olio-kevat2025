@@ -1,0 +1,7 @@
+C:/Users/abase/Documents/OAMK/3. jakso/Olio-ohjelmointi/VT2/Arvauspeli_oliopohjaisesti/build/CMakeFiles/Arvauspeli_oliopohjaisesti.dir
+C:/Users/abase/Documents/OAMK/3. jakso/Olio-ohjelmointi/VT2/Arvauspeli_oliopohjaisesti/build/CMakeFiles/edit_cache.dir
+C:/Users/abase/Documents/OAMK/3. jakso/Olio-ohjelmointi/VT2/Arvauspeli_oliopohjaisesti/build/CMakeFiles/rebuild_cache.dir
+C:/Users/abase/Documents/OAMK/3. jakso/Olio-ohjelmointi/VT2/Arvauspeli_oliopohjaisesti/build/CMakeFiles/list_install_components.dir
+C:/Users/abase/Documents/OAMK/3. jakso/Olio-ohjelmointi/VT2/Arvauspeli_oliopohjaisesti/build/CMakeFiles/install.dir
+C:/Users/abase/Documents/OAMK/3. jakso/Olio-ohjelmointi/VT2/Arvauspeli_oliopohjaisesti/build/CMakeFiles/install/local.dir
+C:/Users/abase/Documents/OAMK/3. jakso/Olio-ohjelmointi/VT2/Arvauspeli_oliopohjaisesti/build/CMakeFiles/install/strip.dir
